@@ -1,4 +1,4 @@
-﻿/* Name: Cynthia and Wendy 
+﻿/* Name: Cynthia
  * Date: January 7, 2014
  * Purpose: Assignment 3: 
 */
