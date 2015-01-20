@@ -1,4 +1,4 @@
-﻿/*Name: Wendy and Cynthia
+﻿/*Name: Cynthia
  * Date: January 7, 2014
  * Purpose: Assignment 3:  
  * This is a child of the Facility class
